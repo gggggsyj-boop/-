@@ -21,6 +21,7 @@ body.json
 __MACOSX/
 .idea/
 .vscode/
+.tools/
 
 # Archives from course packages
 *.zip
